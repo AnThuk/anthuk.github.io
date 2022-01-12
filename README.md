@@ -1,7 +1,13 @@
 # Welcome to AnThuk
 
 
+Here is a list of the most important features of this project:
 
+- Capturing real-time Image data from IP cameras
+- Processing Image data with a computer vision algorithm
+- Detecting objects and People in the image
+- Tracking people to see if they spit in public places
+- Getting Face Data in case they do
 
 <!-- You can use the [editor on GitHub](https://github.com/AnThuk/anthuk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
