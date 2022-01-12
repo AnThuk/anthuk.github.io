@@ -9,6 +9,34 @@ Here is a list of the most important features of this project:
 - Tracking people to see if they spit in public places
 - Getting Face Data in case they do
 
+# Developers
+
+
+![](https://avatars.githubusercontent.com/u/65890217?v=4)
+## Vinay Panchal
+[Github Profile](https://github.com/vinaynpp)
+---
+---
+![](https://avatars.githubusercontent.com/u/20728561?v=4)
+## Japan Gor
+
+[Github Profile](https://github.com/Japangor)
+---
+---
+![](https://avatars.githubusercontent.com/u/68638819?v=4)
+
+## Siddhi Shah
+
+[Github Profile](https://github.com/siddhijcs)
+---
+---
+![](https://avatars.githubusercontent.com/u/71173475?v=4)
+
+## Harsh Ratnani
+
+[Github Profile](https://github.com/harsh89199)
+---
+---
 <!-- You can use the [editor on GitHub](https://github.com/AnThuk/anthuk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
