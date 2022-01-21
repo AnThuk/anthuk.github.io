@@ -53,13 +53,13 @@ Reduce the resolution of the camera to 320x240 for better bandwidth and performa
 
 
 
-Here is a list of the most important features of this project:
+<!-- Here is a list of the most important features of this project:
 
 - Capturing real-time Image data from IP cameras
 - Processing Image data with a computer vision algorithm
 - Detecting objects and People in the image
-- Tracking people to see if they spit in public places
-- Getting Face Data in case they do
+- Tracking people to see if they commit violent act in public places
+- Getting Face Data in case they do -->
 
 # Developers
 
